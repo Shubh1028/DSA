@@ -1,3 +1,20 @@
+/*Input:-
+
+n=5
+
+Output:- Return the output in the form of an array.
+
+2
+
+3
+
+5
+
+7
+
+11 */
+
+
 function primeNumbers(n) {
     const array = [];
 
